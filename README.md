@@ -18,10 +18,6 @@ Clone this repository git clone `git@github.com:jjkilpatrick/Node-Mobile-to-Brow
 Install node modules `npm install`
 Install bower modules `bower install`
 
-### Port Forwards
-
-* 3000
-
 # Usage
 
 - Visit your-ip:3000/mobile on your mobile device. Relace your-ip for IP address on your network `192.168.5.93:3000/mobile`
